@@ -15,7 +15,7 @@ and architect in research & development of cellular communication protocol stack
 Also contributed majorly in project management, people management, solution building
 and pre-sales roles in latter years
 
-For more details: Refer to https://www.linkedin.com/in/sandeep-ramdurg/
+[Visit my linkedin page for more details.](https://www.linkedin.com/in/sandeep-ramdurg/)
 
 <!--
 - **2001-2006**: Sasken Communication Technologies India Pvt. Ltd.
