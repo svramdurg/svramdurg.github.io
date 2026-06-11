@@ -1,5 +1,3 @@
-# About
-
 Hello! I am **Sandeep Ramdurg**. Welcome to my github page!!
 
 ![](./assets/profile/photo_sandeep_2026_05.jpg)
@@ -80,7 +78,7 @@ Following memberships, certifications, and projects have been pursued in freelan
 ## Projects/Consulting
 
 **04.2025 to Present**:
-Involved in self-learning towards goal building offerings in core area of work
+Involved in self-learning towards building offerings in core area of work
 
 **04.2024 to 03.2025**: Consulting Software Architect at Semiksha Semiconductors, NBIOT protocol stack; Architected NBIOT L2L3 protocol stack for junior team and developed the interfaces/seed code and provided trainings and mentoring to ramp up the team to build protocol stack independently on the provided architecture. Also, supported in defining the rest of architecture for the L1 modules and L1-RF interfacing.
 
