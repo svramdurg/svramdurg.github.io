@@ -42,29 +42,29 @@ to help businesses and societies in meaningful ways as below.
 Following memberships, certifications, and projects have been pursued in freelance mode. 
 
 ## Certifications
-- **09.2026 to 12.2026**: Graduate Course in Public Policy, Advanced Public Policy, Takshashila Institute, Bengaluru \
+- **09.2026 to 12.2026**: Graduate Course in Public Policy (Advanced Public Policy), Takshashila Institute, Bengaluru \
 - **07.2026 to 03.2027 (planned)**: IICA Certified CSR Professional (ICP-CSR), Indian Institute of Corporate Affairs (IICA), New Delhi
 
 ## Publications
 ### Social
-- **Relieving India's Language Stress**;
-    Policy Proposal Paper, Submitted to Takshashila Institute as public engagement exercise for award of degree;
+- [Relieving India's Language Stress](./assets/language_policy.pdf);
+    Policy Proposal, Submitted to Takshashila Institute as public engagement exercise for award of degree;
     22.10.2025
-- **Recommendations for Policy on “Prevention & Regulation of Online Gaming”**;
-    Policy Analysis Paper, Submitted to Takshashila Institute as final project work for award of degree;
+- [Recommendations for Policy on “Prevention & Regulation of Online Gaming”](./assets/online_gaming.pdf);
+    Policy Analysis, Submitted to Takshashila Institute as final project work for award of degree;
     01.01.2026
 
 ### Environment
-- **Reasons for environmental non-compliances in urban areas**;
-    Policy Proposal Paper, Submitted to the Urban Development Department, Government of Karnataka, 
+- [Reasons for environmental non-compliances in urban areas](./assets/2024_02_02_mohua_appeal_PAPER-FINAL.pdf);
+    Policy Proposal, Submitted to the Urban Development Department, Government of Karnataka, 
     as a grievance and proposal;
     07.02.2024
 
 ### Technology
-- **Policy for roll out PMWANI public wifi in India**; 
-    Company Proprietary Policy Paper, Prepared for internal use by company for roll out of PMWANI public wifi; 
+- [Policy for roll out PMWANI public wifi in India](./assets/policy_v1.0.pdf); 
+    Policy Paper, Prepared for internal use by company for roll out of PMWANI public wifi; 
     31.10.2022
-- **Ramping up adoption of Public Internet in India**;
+- [Ramping up adoption of Public Internet in India](./assets/public-wifi.pdf);
     Opinion Piece, Submitted to Takshashila Institute as public engagement exercise for award of degree;
     28.12.2025
 
