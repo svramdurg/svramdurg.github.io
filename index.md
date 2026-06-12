@@ -6,9 +6,9 @@ By profession, I am a software architect involved in development of wireless sof
 
 # Core work (Upto 2020)
 
-- **1997**: Bachelor of Engineering (Electronics & Communication), 
+- **1997**: Bachelor of Engineering, Electronics & Communication, 
             P.E.S. College of Engineering, Mysore University, Mandya, India.
-- **2001**: Master of Science (Engineering) in Electrical Communication Engineering,
+- **2001**: Master of Science, Electrical Communication Engineering,
             Indian Institute of Science, Bengaluru, India.
 - **2001-2020**: Served in private companies for 20 years as an embedded software engineer 
 and architect in research & development of cellular communication protocol stacks (3G/4G/5G). 
@@ -45,7 +45,10 @@ to help businesses and societies in meaningful ways as below.
     Analyse or propose public policy in the areas of technology and ESG;
     Participate in social and political movements for empowerments of the economically and socially weak communities;
 
-Following memberships, certifications, and projects have been pursued in freelance mode. 
+Following memberships, certifications, publications and projects have been pursued in freelance mode. 
+
+## Memberships
+- **Institute of Electronics & Telecommunication Engineers (IETE), India**, Membership No. F-503318, Since 19th July 2022
 
 ## Certifications
 - **09.2026 to 12.2026**: [Graduate Course in Public Policy (Advanced Public Policy)](./assets/certifications/gcpp.png), Takshashila Institute, Bengaluru
@@ -54,14 +57,19 @@ Following memberships, certifications, and projects have been pursued in freelan
 
 - **07.2026 to 03.2027 (planned)**: IICA Certified CSR Professional (ICP-CSR), Indian Institute of Corporate Affairs (IICA), New Delhi
 
-## Publications
+## Presentations/Publications
 
-- [Relieving India's Language Stress](./assets/publications/language_policy.pdf);
-    Policy Proposal, Submitted to Takshashila Institute as public engagement exercise for award of degree;
-    22.10.2025
 - [Recommendations for Policy on “Prevention & Regulation of Online Gaming”](./assets/publications/online_gaming.pdf);
     Policy Analysis, Submitted to Takshashila Institute as final project work for award of degree;
     01.01.2026
+
+- [Ramping up adoption of Public Internet in India](./assets/publications/public-wifi.pdf);
+    Opinion Piece, Submitted to Takshashila Institute as public engagement exercise for award of degree;
+    28.12.2025
+
+- [Relieving India's Language Stress](./assets/publications/language_policy.pdf);
+    Policy Proposal, Submitted to Takshashila Institute as public engagement exercise for award of degree;
+    22.12.2025
 
 - [Reasons for environmental non-compliances in urban areas](./assets/publications/2024_02_02_mohua_appeal_PAPER-FINAL.pdf);
     Policy Proposal, Submitted to the Urban Development Department, Government of Karnataka, 
@@ -71,9 +79,6 @@ Following memberships, certifications, and projects have been pursued in freelan
 - [Policy for roll out PMWANI public wifi in India](./assets/publications/policy_v1.0.pdf); 
     Policy Paper, Prepared for internal use by company for roll out of PMWANI public wifi; 
     31.10.2022
-- [Ramping up adoption of Public Internet in India](./assets/publications/public-wifi.pdf);
-    Opinion Piece, Submitted to Takshashila Institute as public engagement exercise for award of degree;
-    28.12.2025
 
 ## Projects/Consulting
 
