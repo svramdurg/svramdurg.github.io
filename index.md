@@ -1,20 +1,29 @@
 ![](./assets/profile/photo_sandeep_2026_05.jpg)
 
-I am **Sandeep Ramdurg**. Welcome to my github page!! \
-By profession, I am a software architect involved in development of wireless software. I have served in my profession for 20 years as an employee and more recently as a consultant in last few years. As a consulting professional in the latter years of my career journey, I am building my offerings to industry in my core area of expertise. However, I also aspire to develop knowledge and offer services in areas outside my core area of expertise, to be specific in areas of environmental and social impact which are additional areas of interest to me. Below is a summary of my profile and works.
+Hello! I am Sandeep Ramdurg.
 
-# Core work (Upto 2020)
+By core experience, I am a software architect involved in development of
+wireless cellualar protocol software. I have served in this area for 20+ years
+and I intend to continue contributing in this area with my offerings as a consultant, which I am
+since last few years. In parallel, I also aspire to develop understanding and
+offer ideas and services in new areas, namely environment, social, and
+governance through writings and projects. Below is a summary of my profile and works.
 
+# Core experience (2001-2020)
+
+<!--
 - **1997**:- Bachelor of Engineering, Electronics & Communication, 
             P.E.S. College of Engineering, Mysore University, Mandya, India.
 - **2001**:- Master of Science, Electrical Communication Engineering,
             Indian Institute of Science, Bengaluru, India.
-- **2001-2020**:- Served in private companies for 20 years as an embedded software engineer 
+- **2001-2020**:- 
+-->
+Served in private companies for 20 years as an embedded software engineer 
 and architect in research & development of cellular communication protocol stacks (3G/4G/5G). 
 Also contributed majorly in project management, people management, solution building
 and pre-sales roles in latter years
 
-[Visit my linkedin page for more details.](https://www.linkedin.com/in/sandeep-ramdurg/)
+[Visit my linkedin page for more details about education and employments](https://www.linkedin.com/in/sandeep-ramdurg/)
 
 <!--
 - **2001-2006**: Sasken Communication Technologies India Pvt. Ltd.
@@ -25,11 +34,11 @@ and pre-sales roles in latter years
 - **2017-2020**: Sasken Technologies India Pvt. Ltd.
 -->
 
-# Freelance work (Since 2020)
+# Freelance work... (from 2020)
 
-## Interests
+<!-- ## Interests -->
 As a freelance worker, my interest is to consolidate and use my knowledge and experience independently
-to help businesses and societies in meaningful ways as below.
+to help businesses and societies in meaningful ways as below. My interests are:-
 
 **Core**:-
     Create artifacts like trainings, tools, reference designs etc. based on prior experience 
