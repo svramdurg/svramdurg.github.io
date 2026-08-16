@@ -1,44 +1,32 @@
 ![](./assets/profile/photo_sandeep_2026_05.jpg)
 
-Hello! I am Sandeep Ramdurg.
+Hello! I am Sandeep Ramdurg. I have served in private companies for 20+ years as an 
+embedded software engineer/architect in R&D of cellular protocol software (3G/4G/5G technologies).
+While building software, I have also contributed in project management and business development 
+roles for the product(s) that we built.
 
-By core experience, I am a software architect involved in development of
-wireless cellualar protocol software. I have served in this area for 20+ years
-and I intend to continue contributing in this area with my offerings as a consultant, which I am
-since last few years. In parallel, I also aspire to develop understanding and
-offer ideas and services in new areas, namely environment, social, and
-governance through writings and projects. Below is a summary of my profile and works.
+- Education
+    - 1997: B.E., Electronics & Communication,
+            Mysore University, India.
+    - 2001: M.S., Electrical Communication Engineering,
+            Indian Institute of Science, India.
+- Core experience (Upto 2020)
+    - 2001-2006: Senior Engineer - Sasken Communication Technologies India Pvt. Ltd.
+    - 2006-2008: Senior Engineer - Motorola India Pvt. Ltd.
+    - 2008-2012: Technical Lead/Manager - Smartplay Technologies India Pvt. Ltd.
+    - 2012-2014: Software Architect - Signalchip Innovations India Pvt. Ltd.
+    - 2015-2017: Technology Architect - Synapse Design India Pvt. Ltd.
+    - 2017-2020: Senior Solution Architect - Sasken Technologies India Pvt. Ltd.
 
-# Core experience (2001-2020)
+- More Info in my linkedin profile: [linkedin](https://www.linkedin.com/in/sandeep-ramdurg/)
 
-<!--
-- **1997**:- Bachelor of Engineering, Electronics & Communication, 
-            P.E.S. College of Engineering, Mysore University, Mandya, India.
-- **2001**:- Master of Science, Electrical Communication Engineering,
-            Indian Institute of Science, Bengaluru, India.
-- **2001-2020**:- 
--->
-Served in private companies for 20 years as an embedded software engineer 
-and architect in research & development of cellular communication protocol stacks (3G/4G/5G). 
-Also contributed majorly in project management, people management, solution building
-and pre-sales roles in latter years
+Since 2020, I have moved on to work as a freelance independent consultant. 
+I aspire to continue contributing in my core area as a consultant. I also aspire to 
+contribute in new areas of environment, social, and governance impact through 
+my writings and projects. This web page captures my 2nd career as a consultant 
+since 2020.
 
-[Visit my linkedin page for more details about education and employments](https://www.linkedin.com/in/sandeep-ramdurg/)
-
-<!--
-- **2001-2006**: Sasken Communication Technologies India Pvt. Ltd.
-- **2006-2008**: Motorola India Pvt. Ltd.
-- **2008-2012**: Smartplay Technologies India Pvt. Ltd.
-- **2012-2014**: Signalchip Innovations India Pvt. Ltd.
-- **2015-2017**: Synapse Design India Pvt. Ltd.
-- **2017-2020**: Sasken Technologies India Pvt. Ltd.
--->
-
-# Freelance work... (from 2020)
-
-<!-- ## Interests -->
-As a freelance worker, my interest is to consolidate and use my knowledge and experience independently
-to help businesses and societies in meaningful ways as below. My interests are:-
+## Interests
 
 **Core**:-
     Create artifacts like trainings, tools, reference designs etc. based on prior experience 
@@ -59,7 +47,7 @@ Following memberships, certifications, publications and projects have been pursu
 - **07.2022**:- [Fellow, Institute of Electronics & Telecommunication Engineers (IETE), India](./assets/memberships/iete.png), Membership No. F-503318
 
 ## Certifications
-- **12.2026**:- [Graduate Certificate in Public Policy (Advanced Public Policy)](./assets/certifications/gcpp.png), Takshashila Institute, Bengaluru
+- **01.2026**:- [Graduate Certificate in Public Policy (Advanced Public Policy)](./assets/certifications/gcpp.png), Takshashila Institute, Bengaluru
 ![GCPP Batch42 workshop group photo, Dec 6th 2025](./assets/certifications/GCPP42GroupPhoto.jpeg)
 *GCPP Batch42 workshop group photo, Dec06 2025*
 
