@@ -7,7 +7,7 @@ excerpt: 'A comprehensive operational, legal, and commercial policy framework fo
 date: 2022-10-31
 venue: 'Company internal for roll out of PMWANI public wifi'
 paperurl: '/files/00001_pmwani_wifi_rollout_policy.pdf'
-citation: 'Ramdurg, Sandeep (2022); &quot; Policy for roll out PMWANI public wifi in India; &quot; <i>Company internal for roll out of PMWANI public wifi</i>'
+citation: 'Ramdurg, Sandeep (2022); &quot; Policy for roll out PMWANI public wifi in India &quot;, <i>Company internal for roll out of PMWANI public wifi</i>'
 #bibtexurl: 'files/bibtex1.bib'
 #slidesurl: 'files/slides1.pdf'
 ---

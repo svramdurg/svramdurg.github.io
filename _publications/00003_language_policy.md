@@ -1,5 +1,5 @@
 ---
-title: 'Relieving Indias Language Stress'
+title: 'Relieving India''s Language Stress'
 collection: publications
 category: academic
 permalink: /publication/00003_language_policy
@@ -7,7 +7,7 @@ excerpt: 'The creation of India required unifying the languages of India to effe
 date: 2025-12-22
 venue: 'Academic exercise, The Takshashila Institute, Bengaluru'
 paperurl: '/files/00003_language_policy.pdf'
-citation: 'Ramdurg, Sandeep (2025) &quot; Relieving Indias Language Stress,&quot; <i>Academic exercise, The Takshashila Institute, Bengaluru</i>'
+citation: 'Ramdurg, Sandeep (2025) &quot; Relieving India''s Language Stress&quot;, <i>Academic exercise, The Takshashila Institute, Bengaluru</i>'
 #bibtexurl: 'files/bibtex1.bib'
 #slidesurl: 'files/slides1.pdf'
 ---
