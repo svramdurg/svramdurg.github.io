@@ -20,7 +20,7 @@ Going forward, I aspire to continue contributing in my core areas as a
 researcher & consultant for topics and works which I feel satisfy my
 urge to learn or fulfill a pressing industry need. However, I increasingly aspire to 
  build a new career to give back to society by contributing as a consultant
-in areas of environmental and social impact driven by initiatives of government and
+in environmental and social impact initiatives driven by government and
 industry. My interests in my 2nd innings as a consultant are as below and my 
 qualification and works are captured in subsequent pages.
 
